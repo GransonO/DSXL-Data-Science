@@ -19,26 +19,26 @@ body header#header #logo-container img {
   margin-left: 30px;
 }
 body main {
-  width: 90%;
   overflow: hidden;
   background: none;
-  margin: auto;
 }
 body #second-section {
   position: relative;
-  margin-top: 490px;
-  padding: 40px;
+  margin-top: 64px;
+  margin-left: 216px;
+  width: 905px;
 }
 body #second-section #s2-row2 {
   background: url(../images/rounded.svg);
-  background-size: contain;
+  background-size: 449px 441.47px;
   color: #FFFFFF;
   font-size: 21.33px;
   width: 449px;
   height: 441.47px;
   text-align: center;
   border-radius: 100%;
-  margin-left: 352px;
+  margin-left: auto;
+  margin-right: auto;
   position: relative;
 }
 body #second-section #s2-row2 #s1-row2-row1 {
@@ -46,7 +46,6 @@ body #second-section #s2-row2 #s1-row2-row1 {
   position: absolute;
   background: none;
   width: 60%;
-  top: -16px;
   left: 100px;
   clear: both;
 }
@@ -59,16 +58,15 @@ body #second-section #s2-row2 #s1-row2-row1 span {
 }
 body #first-section {
   background: url(../images/background_top.svg);
-  background-size: contain;
+  background-size: 1052px 400.97px;
   background-repeat: no-repeat;
   position: relative;
   height: 1080px;
-  height: 605.97px;
   width: 100%;
 }
 body #first-section #s1-row2 {
   margin-top: 32px;
-  margin-left: 126px;
+  margin-left: 240px;
   width: 812px;
 }
 body #first-section #s1-row2 p {
@@ -79,7 +77,7 @@ body #first-section #s1-row5 {
   width: 904px;
   font-style: normal;
   color: #000000;
-  margin-left: 129px;
+  margin-left: 230px;
   display: block;
   margin-top: 32px;
 }
@@ -91,20 +89,20 @@ body #first-section #s1-row5 p {
 }
 body #first-section #s1-row1 {
   padding-top: 120px;
-  padding-left: 129px;
+  padding-left: 230px;
 }
 body #first-section #s1-row4 {
+  margin-top: 48px;
   background: url(../images/ladies.svg);
   width: 905px;
   height: 400px;
-  margin-left: 128px;
-  margin-top: 32px;
+  margin-left: 240px;
 }
 body #first-section #s1-row3 {
-  margin-top: 32px;
+  margin-top: 48px;
 }
 body #first-section #s1-row3 a {
-  margin-left: 381px;
+  margin-left: 458px;
   margin-right: auto;
   display: block;
   width: 352px;
@@ -114,7 +112,8 @@ body #first-section #s1-row3 a {
 }
 body #third-section {
   width: 940px;
-  margin-left: 180px;
+  margin-left: 240px;
+  margin-top: 64.83px;
 }
 body #third-section #s3-heading {
   margin-left: auto;
