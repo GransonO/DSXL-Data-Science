@@ -184,10 +184,24 @@
 /* Fouth Section End */
 
 /* Success Section Begining */
+.section-sucsess {
+  position: relative;
+}
 
 .section-sucsess__cards-container {
   display: flex;
   justify-content: space-evenly;
+}
+
+.section-sucsess__cards-bg {
+  position: absolute;
+  height: 154px;
+  width: 100%;
+  left: 0px;
+  top: 264px;
+  z-index: -10;
+
+  background: #dee3e8;
 }
 
 .section-sucsess__cards {
