@@ -24,6 +24,14 @@
   margin-right: 26px;
 }
 
+.u-marginright-medium {
+  margin-right: 30px;
+}
+
+.u-marginright-bottom {
+  margin-bottom: 26px;
+}
+
 .color-white {
   color: #ffffff;
 }
@@ -158,4 +166,14 @@
   text-align: center;
 
   color: #ebebeb;
+}
+
+.fourth-section__sicial {
+  margin-top: 26px;
+  margin-left: 31px;
+}
+
+.fourth-section__sicial-icons {
+  height: 104px;
+  width: 104px;
 }
