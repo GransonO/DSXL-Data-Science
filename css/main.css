@@ -1,5 +1,5 @@
 * {
-  font-family: "Geometria", san-serif;
+  font-family: 'Geometria', san-serif;
   margin: 0;
   padding: 0;
 }
@@ -31,7 +31,7 @@ body #second-section {
 body #second-section #s2-row2 {
   background: url(../images/rounded.svg);
   background-size: 449px 441.47px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 21.33px;
   width: 449px;
   height: 441.47px;
@@ -180,7 +180,7 @@ body a.button.btn-yellow {
 }
 body a.button.btn-black {
   background: #151e36;
-  color: #FED06A;
+  color: #fed06a;
 }
 body .text-center {
   text-align: center;

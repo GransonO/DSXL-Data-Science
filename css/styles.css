@@ -1,0 +1,81 @@
+/* Fouth Section Begining */
+.container {
+  width: 60rem;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 100%;
+}
+
+.u-margintop-small {
+  margin-top: 30px;
+}
+
+.u-margintop-medium {
+  margin-top: 64px;
+}
+
+.u-marginright-small {
+  margin-right: 26px;
+}
+
+.text-info {
+  font-size: 21.33px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#fourth-section {
+  height: 500px;
+}
+
+.fourth-section__top {
+  width: 596px;
+}
+.header {
+  font-weight: 800;
+  font-size: 37.9px;
+
+  color: #151e36;
+}
+
+.fourth-section__btns {
+  display: flex;
+}
+
+.btn {
+  width: 252px;
+  height: 65px;
+  left: 311px;
+  top: 147px;
+}
+
+.btn-primary {
+  color: #fed06a;
+  background: #151e36;
+  font-weight: bold;
+  font-size: 21.33px;
+}
+
+.btn-tertiary {
+  color: #000000;
+  background: #ffffff;
+
+  font-weight: bold;
+  font-size: 21.33px;
+
+  border: 0.2px solid #0000001f;
+  box-sizing: border-box;
+}
+
+.fourth-section__vid {
+  width: 100%;
+  background: url('../images/vid.svg');
+}
